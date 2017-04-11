@@ -1,0 +1,18 @@
+
+.autocomplete-input{}
+.autocomplete-container{
+
+	border:1px solid #7c7c7c;
+	background: #EBEBEB;
+	padding:0px;
+	list-style: none;
+	position: absolute;
+}
+.autocomplete-items:hover{
+	background: #aaaaaa;
+	cursor: pointer;
+}
+.autocomplete-items{
+	padding: 5px;
+
+}
